@@ -2,7 +2,7 @@
 
 - 🔭 Co-Founder of [@conyappa](https://github.com/conyappa), Latam’s first prize-linked savings account.
 
-- 🌱 I’m into machine learning.
+- 🌱 I’m into biomedical engineering and machine learning.
 
 - 🌐 https://martinezs.dev.
 
