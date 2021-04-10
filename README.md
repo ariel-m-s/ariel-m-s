@@ -4,6 +4,6 @@
 
 - 🌱 I’m into machine learning.
 
-- 🌐 https://martinezs.dev
+- 🌐 https://martinezs.dev.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariel-m-s&count_private=true&show_icons=true&theme=onedark&hide=css,html&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
