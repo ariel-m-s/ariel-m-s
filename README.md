@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Ariel [[LinkedIn](https://www.linkedin.com/in/amartinezs/)].
+### Hi there 👋. My name is Ariel.
 
 I'm curious and easygoing, ready to embark on new adventures. My journey has taken me through various roles, from software to research and teaching. I possess a quick learning and problem-solving knack, allowing me to thrive in diverse environments. I'm genuinely driven by fresh challenges and the opportunity to learn from them.
 
