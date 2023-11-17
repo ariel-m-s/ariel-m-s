@@ -13,4 +13,4 @@ DS stuff (mostly in Python):
 - [Network Simplex algorithm implementation](https://github.com/ariel-m-s/network-simplex)
 
 Others:
-- [Unix-like scheduler in C](https://github.com/ariel-m-s/basic-scheduler)
+- [Unix-like scheduler implementation in C](https://github.com/ariel-m-s/basic-scheduler)
