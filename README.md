@@ -4,6 +4,8 @@ I'm curious and easygoing, ready to embark on new adventures. My journey has tak
 
 If you're seeking a professional who is adaptable, collaborative, and passionate about tackling challenges (with a dash of humor to keep things lively), let's connect. I'm here to contribute to exciting projects and to grow along the way. 😊🚀
 
+I'm fluent in Python and proficient in Javascript.
+
 SE stuff (mostly in Python):
 - [Platform to run custom scripts remotely and asynchronously](https://github.com/ram-brands)
 - [Cryptocurrency arbitrage bot + reporting Telegram bot](https://github.com/perficere)
