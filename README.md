@@ -1,4 +1,4 @@
-### Hi there 👋. My name is Ariel.
+### Hi there 👋. My name is Ariel [[LinkedIn](https://www.linkedin.com/in/amartinezs/)].
 
 SE stuff (mostly in Python):
 - [Platform to run custom scripts remotely and asynchronously](https://github.com/ram-brands)
