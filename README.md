@@ -12,11 +12,11 @@ SE stuff (mostly in Python):
 - [Concept for Prize-Linked Savings Account + MVP Telegram bot](https://github.com/conyappa)
 
 DS stuff (mostly in Python):
-- [ASP satisfiability solver](https://github.com/ariel-m-s/pou-connnect-solver)
 - [Evaluation of multi-criteria recommendation methods](https://github.com/ariel-m-s/multi-criteria-recommendation)
 - [K-Means clustering implementation](https://github.com/ariel-m-s/k-means)
 - [Binary Random Forest implementation](https://github.com/ariel-m-s/random-forest)
 - [Network Simplex algorithm implementation](https://github.com/ariel-m-s/network-simplex)
 
 Others:
+- [ASP satisfiability solver](https://github.com/ariel-m-s/pou-connnect-solver)
 - [Unix-like scheduler implementation in C](https://github.com/ariel-m-s/basic-scheduler)
