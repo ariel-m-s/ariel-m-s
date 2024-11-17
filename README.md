@@ -17,6 +17,6 @@ DS stuff (mostly in Python):
 - [Binary Random Forest implementation](https://github.com/ariel-m-s/random-forest)
 - [Network Simplex algorithm implementation](https://github.com/ariel-m-s/network-simplex)
 
-Others:
+Other:
 - [ASP satisfiability solver](https://github.com/ariel-m-s/pou-connnect-solver)
 - [Unix-like scheduler implementation in C](https://github.com/ariel-m-s/basic-scheduler)
